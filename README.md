@@ -43,29 +43,18 @@ What I'm saying is I _really_ like to learn. I often prioritize learning over ot
 ### Also
 ----
 
-I play music and I'm nearly always singing or tapping.
-
-I used to commute 350km per day in an electric vehicle. No need for range anxiety people, but don't commute that much.
-
-I like to fly airplanes that don't have engines (?!).
-
-I rode my bicycle from Vancouver to Winnipeg.
-
-I'm a licensed electrician.
-
-I started an e-commerce business and saw enough success with it to feel confident that I can do things like that.
-
-### I adore my family.
-
-I decided to do software development full time when covid hit. I managed to pull that off somehow. Thank you @JonBarson & @LaurenRosentzveig.
-
-I can fluctuate between mild depression and anxiety and have a good emotional toolkit from those experiences.
-
-I'm a code mentor at the NASA Space Apps Challenge and _really_ love humanity's growth into space. I volunteer for space stuff where I can.
-
-I made a sextant.
-
-I probably sound like a kid right now, but I'm in my mid-thirties.
+- I play music and I'm nearly always singing or tapping.
+- I used to commute 350km per day in an electric vehicle. No need for range anxiety people but don't commute that much.
+- I like to fly airplanes that don't have engines (?!).
+- I rode my bicycle from Vancouver to Winnipeg.
+- I'm a licensed electrician.
+- I started an e-commerce business and saw enough success with it to feel confident that I can do things like that.
+- ### I adore my family.
+- I decided to do software development full time when covid hit. I managed to pull that off somehow. Thank you @JonBarson & @LaurenRosentzveig.
+- I can fluctuate between mild depression and anxiety and have a good emotional toolkit from those experiences.
+- I'm a code mentor at the NASA Space Apps Challenge and _really_ love humanity's growth into space. I volunteer for space stuff where I can.
+- I made a sextant.
+- I probably sound like a kid right now but I'm in my mid-thirties.
 
 ## ENOUGH!
 
