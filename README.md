@@ -1,62 +1,64 @@
-# Greetings and salutations 🌎 🌍 🌏
+# Greetings and Salutations 🌎 🌍 🌏
 
-**To the reader:** the following is part-resume and part-fun and really just a parts list.
+**To the reader:** This is part-resume, part-fun, and a glimpse into my professional journey.
 
 ## Production Apps
-### [I.Liv.](https://iliv.io/) is an app that supports women (along with a cohort-based professional program) in acheiving professional goals alongside personal balance. We use these things:
+### [I.Liv.](https://iliv.io/)
+I.Liv. is an app supporting women in achieving professional goals while maintaining personal balance. Here's the tech stack:
 - TypeScript and React Native
 - Node/Express, micro-service architecture
-- MongoDB with custom field-level data encryption mechanisms
-- Auth0 as authentication server
-- AWS for deplyoyments, along with all the fancy VPC and routing configurations for top-notch security
+- MongoDB with custom field-level data encryption
+- Auth0 for authentication
+- AWS for deployments with VPC and advanced security configurations
 - Azure DevOps for task management and CI/CD pipelines
-- Jest and Maestro fro unit, integration and E2E testing
+- Jest and Maestro for unit, integration, and E2E testing
 
-### [Purchase Order Pro](https://www.popro.app/) (PO Pro) is a SaaS and mobile-app combo for construction companies that I built. I used these things:
+### [Purchase Order Pro](https://www.popro.app/) (PO Pro)
+PO Pro is a SaaS and mobile app combo for construction companies. I used:
 - TypeScript
 - Node/Express
 - PostgreSQL
 - React & NextJS
 - Google Cloud Platform for SQL
 - Firebase/store/auth
-- CI via Github actions
-- Jest for units & Cypress for e2e
+- CI via GitHub Actions
+- Jest for units & Cypress for E2E
 - React Native for the mobile side
 
-### Other, less-prominent but still functional, technological experience
+### Other Technological Experience
 - Vue, Ionic
-- Java and Kotlin, Objective-C and Swift (to create and/or extend native modules in the React Native apps described above)
-- State managers: redux, mobx, jotai
-- Cache-syncs: react-query, my own custom implementations for sync'ing images across multiple devices in I.Liv.
-- Amazon Web Services (Cognito, Dynamo, specifically)
-- Programming in functional and object-oriented paradigms
-- Using state machines, data structure and application architecture design
+- Java, Kotlin, Objective-C, Swift (for native modules in React Native apps)
+- State managers: Redux, Mobx, Jotai
+- Cache-syncs: React Query, custom implementations for syncing images across multiple devices in I.Liv.
+- AWS (Cognito, DynamoDB)
+- Functional and object-oriented programming
+- State machines, data structure, and application architecture design
 - Custom webpack implementations
-- Lots of bash scripting
+- Extensive bash scripting
 
-## On Me
+## About Me
 
-I _really_ like to learn. I often prioritize learning over otherwise. A few notable exceptions are:
+I _really_ like to learn and often prioritize it. A few notable exceptions are:
 
 👨‍👩‍👦‍👦  Family
 
-🌋  Escaping norrowly with my life intact
+🌋  Escaping narrowly with my life intact
 
 - I play music and I'm nearly always singing or tapping.
-- I used to commute 350km per day in an electric vehicle. No need for range anxiety people but don't commute that much.
-- I like to fly airplanes that don't have engines (?!).
+- I used to commute 350km per day in an electric vehicle. No range anxiety, but don't commute that much.
+- I like to fly airplanes that don't have engines.
 - I rode my bicycle from Vancouver to Winnipeg.
 - I'm a licensed electrician.
-- I started an e-commerce business and saw enough success with it to feel confident that I can do things like that.
+- I started an e-commerce business and found enough success to feel confident in entrepreneurial endeavors.
 - **I adore my family.**
-- I decided to do software development full time when covid hit. I managed to pull that off somehow. Thank you @JonBarson & @LaurenRosentzveig.
-- I can fluctuate between mild depression and anxiety and have a good emotional toolkit from those experiences.
-- I'm a code mentor at the NASA Space Apps Challenge and _really_ love humanity's growth into space. I volunteer for space stuff where I can.
+- I transitioned to full-time software development when COVID hit, thanks to @JonBarson & @LaurenRosentzveig.
+- I manage mild depression and anxiety with a strong emotional toolkit from these experiences.
+- I'm a code mentor at the NASA Space Apps Challenge and passionate about humanity's growth into space. I volunteer for space-related projects where I can.
 - I made a sextant.
-- I probably sound like a kid right now but I'm in my mid-thirties.
+- I probably sound like a kid, but I'm in my mid-thirties.
 
 ## ENOUGH!
-Maybe I'll post about my stuff. I often don't though. Either way, you can learn more about me on LinkedIn and Twitter.
+Maybe I'll post more about my stuff. Either way, you can learn more about me on LinkedIn and Twitter.
 
 [@angusryer](https://twitter.com/angusryer)
 
