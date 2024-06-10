@@ -1,10 +1,25 @@
 # Greetings and Salutations 🌎 🌍 🌏
 
-**To the reader:** This is part-resume, part-fun, and a glimpse into my professional journey.
+**To the reader:** This is part-resume, part-story, and a glimpse into my professional journey.
 
-## Production Apps
+## The Words of History
+
+Highest-value experience: From 2017 to 2020, I was part of an operational team dedicated to transforming a major construction company's approach to technology. I designed, developed, and implemented a tool that managed labor time and cost, material quantity and cost, and task management data for about 50 projects in a dozen industries valued at around 250 million dollars all-in. I trained project managers, coordinators, and site personnel on how to use it. As an electrician, I was particularly passionate about ensuring a seamless experience for field personnel.
+
+I *loved* this work: developing the tooling, creating the documentation and training resources, and getting in front of site personnel to understand them very close-up. I also deeply value the emotional realities of business, which made working in this environment challenging. Construction is renowned for its rough-edged, broad-stroked, chain-of-command approach to problem-solving. I can handle all that. I did it for eleven years. But I prefer communication over command and found that my environment didn't inspire my best self, so I ultimately decided to pursue other things when COVID got real.
+
+This experience demonstrated how much I enjoy software development and architecture. It was also clear that I enjoyed working in an authentic, collaborative capacity with others. When COVID hit, I enrolled in a boot camp to get a better handle on the full stack. I resolved to myself (and my growing family) that I would pursue a successful, independent career in software. I wanted to combine that with my skills in business (see The Enabled Company below) and love of collaboration. At first, it was very hard. I was on employment insurance, working on small website contracts, working for free to gain experience. I attempted to build a game using React Native. Awesome learning. I touched many technologies and service providers during this time.
+
+Then I co-founded Whippersnapps with a previous colleague in the construction industry. Our mission was to identify unique problems with subject matter experts in *any* domain and build solutions alongside them for equity. This journey led to the creation of Purchase Order Pro (PO Pro), a PO management tool for construction companies. This is a fully-featured, multi-tenant web, mobile and server application set that supports role-based features complete with account-management delegation ability. I'm pretty proud of this work. I'd like to integrate some of the ideas I juggled during my tenure at that big construction company I mentioned above.
+
+But for now, I'm very busy working with another company, raising kids, fixing my home, and slowly going off-grid. Here's a list to look at:
+
+## I.Liv Performance Inc.
+
+At I.Liv, I'm the lead developer. I'm the only developer, actually. It didn't start out that way, though. It started with two others, both of whom had substantially more experience than me, which I liked. Eventually, they all got caught up in more lucrative endeavors, and I remained to keep things moving forward. I.Liv. is an app supporting women (actually anyone, really) in achieving professional goals while maintaining personal balance. It implements agile methodologies into real life and does so via a cohort-based coaching program offered by experienced women.
+
 ### [I.Liv.](https://iliv.io/)
-I.Liv. is an app supporting women in achieving professional goals while maintaining personal balance. Here's the tech stack:
+Here's the tech stack:
 - TypeScript and React Native
 - Node/Express, micro-service architecture
 - MongoDB with custom field-level data encryption
@@ -13,8 +28,12 @@ I.Liv. is an app supporting women in achieving professional goals while maintain
 - Azure DevOps for task management and CI/CD pipelines
 - Jest and Maestro for unit, integration, and E2E testing
 
+## Whippersnapps Digital Inc.
+
+I led the tech and faced customers on this one. Designed and built the apps and server from scratch. I probably shouldn't have done all the work myself, but when you're attempting to cultivate deep insights, you need to go right down to the core. PO Pro is a SaaS and mobile app combo for construction companies. It reduces friction, miscommunication, and silly errors when passing purchase order info around from site to office to vendor. It taught me about security, payments, permissions, complex DB queries, system optimization, and deployment strategies. I also held many customer conversations during this time. I was speaking with domain experts in several different industries, trying to understand product viability and assess risks even though I wasn't the domain expert. It turned out to be quite a challenge, but I learned a lot and still refer to my notes from these conversations to this day. I had to really stretch my mind, and that's good.
+
 ### [Purchase Order Pro](https://www.popro.app/) (PO Pro)
-PO Pro is a SaaS and mobile app combo for construction companies. I used:
+Techity-techs:
 - TypeScript
 - Node/Express
 - PostgreSQL
@@ -24,6 +43,14 @@ PO Pro is a SaaS and mobile app combo for construction companies. I used:
 - CI via GitHub Actions
 - Jest for units & Cypress for E2E
 - React Native for the mobile side
+
+## The Enabled Company Inc. (2017)
+
+Two friends and I started and maintained an e-commerce company called The Enabled Company Inc. It was in the menstrual product space and it reached about 60k per year in revenue. Managing its finances and operations, I learned the ins and outs of running a business. Together, my partners and I designed and sourced raw materials for 13 physical products which we sold primarily on Amazon.ca. We registered trademarks, engaged with local and global suppliers, manufacturers, and other agencies to successfully coordinate the production and delivery of our product to a whole bunch of happy customers! Our best-selling product had 250 reviews with an average of 4.6 stars.
+
+Wanna know what killed the company?
+
+Lack of capital. We didn't have enough to purchase and keep sufficient quantities of our product on hand for weathering major economic storms. One hit us and we lost significant-enough traction for other sellers to move in and out-compete. Amazon is a wild-west, and it's also a great business-learning experience.
 
 ### Other Technological Experience
 - Vue, Ionic
@@ -38,7 +65,7 @@ PO Pro is a SaaS and mobile app combo for construction companies. I used:
 
 ## About Me
 
-I _really_ like to learn and often prioritize it. A few notable exceptions are:
+I _really_ like to learn and often prioritize it. A few notable exceptions to these priorities are:
 
 👨‍👩‍👦‍👦  Family
 
