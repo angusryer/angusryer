@@ -12,7 +12,9 @@ This experience demonstrated how much I enjoy software development and architect
 
 Then I co-founded Whippersnapps with a previous colleague in the construction industry. Our mission was to identify unique problems with subject matter experts in *any* domain and build solutions alongside them for equity. This journey led to the creation of Purchase Order Pro (PO Pro), a PO management tool for construction companies. This is a fully-featured, multi-tenant web, mobile and server application set that supports role-based features complete with account-management delegation ability. I'm pretty proud of this work. I'd like to integrate some of the ideas I juggled during my tenure at that big construction company I mentioned above.
 
-But for now, I'm very busy working with another company, raising kids, fixing my home, and slowly going off-grid. Here's a list to look at:
+But for now, I'm very busy building [ryer.io](https://ryer.io), a fractional tech leadership firm, working on I.Liv, raising kids, fixing my home, and slowly going off-grid.
+
+Here's a list to look at:
 
 ## I.Liv Performance Inc. (2022 - Present)
 
