@@ -14,7 +14,7 @@ Then I co-founded Whippersnapps with a previous colleague in the construction in
 
 But for now, I'm very busy working with another company, raising kids, fixing my home, and slowly going off-grid. Here's a list to look at:
 
-## I.Liv Performance Inc.
+## I.Liv Performance Inc. (2022 - Present)
 
 At I.Liv, I'm the lead developer. I'm the only developer, actually. It didn't start out that way, though. It started with two others, both of whom had substantially more experience than me, which I liked. Eventually, they all got caught up in more lucrative endeavors, and I remained to keep things moving forward. I.Liv. is an app supporting women (actually anyone, really) in achieving professional goals while maintaining personal balance. It implements agile methodologies into real life and does so via a cohort-based coaching program offered by experienced women.
 
@@ -28,9 +28,11 @@ Here's the tech stack:
 - Azure DevOps for task management and CI/CD pipelines
 - Jest and Maestro for unit, integration, and E2E testing
 
-## Whippersnapps Digital Inc.
+## Whippersnapps Digital Inc. (2020 - 2022)
 
-I led the tech and faced customers on this one. Designed and built the apps and server from scratch. I probably shouldn't have done all the work myself, but when you're attempting to cultivate deep insights, you need to go right down to the core. PO Pro is a SaaS and mobile app combo for construction companies. It reduces friction, miscommunication, and silly errors when passing purchase order info around from site to office to vendor. It taught me about security, payments, permissions, complex DB queries, system optimization, and deployment strategies. I also held many customer conversations during this time. I was speaking with domain experts in several different industries, trying to understand product viability and assess risks even though I wasn't the domain expert. It turned out to be quite a challenge, but I learned a lot and still refer to my notes from these conversations to this day. I had to really stretch my mind, and that's good.
+I led the tech and faced customers on this one. We created P.O. Pro and I designed and built the apps and server from scratch. I probably shouldn't have done all the work myself, but when you're attempting to cultivate deep insights, you need to go right down to the core. P.O. Pro is a SaaS and mobile app combo for construction companies. It reduces friction, miscommunication, and silly errors when passing purchase order info around from site to office to vendor. It taught me about security, payments, permissions, complex DB queries, system optimization, and deployment strategies. I also held many customer conversations during this time. I was speaking with domain experts in several different industries, trying to understand product viability and assess risks even though I wasn't the domain expert. It turned out to be quite a challenge, but I learned a lot and still refer to my notes from these conversations to this day. I had to really stretch my mind, and that's good.
+
+Ultimately, my partner and I decided to move on. His company was growing very quickly and he had to make some hard decisions about what he could support.
 
 ### [Purchase Order Pro](https://www.popro.app/) (PO Pro)
 Techity-techs:
@@ -44,7 +46,13 @@ Techity-techs:
 - Jest for units & Cypress for E2E
 - React Native for the mobile side
 
-## The Enabled Company Inc. (2017)
+## Plan Group Inc. (2017 - 2020)
+
+When I took this job, I was impressed at the company's desire to transform themselves digitally. I explicitly applied for this reason. I'm passionate about this. They immediately got me started working on the operations team where I took on the project of continuing to develop an Excel spreadsheet they were trying to implement as software across their sites. I began learning visual basic so I could really tune this sheet in, and eventually ended up with a tool that could manage crew rosters, task lists, accounting codes and analysis in a way that was integrated and responsive. You could also set it up with a basic input template and it would do all the other magic for you. It was *definitely* too much for what a "spreadsheet" should be able to do. It had far too many hidden sheets. It should have been centrally hosted. Having to implement "pseudo-interfaces" in a language that never supported interfaces probably meant it had outgrown its use-case. All that aside: it was a spreadsheet that you can send via email, and that's what was familiar with site personnel, and honestly, in construction, that did justify the means.
+
+I had a wonderful time teaching people the math behind the franken-sheet and rolling it out to several dozen projects of all sizes all across Canada. It really made me dive into the nuances of labour-driven KPIs on construction projects and all the interesting assumptions that we tend to make when determining what KPIs to measure success with. It was a stressful job, though, and with kids and a very long commute, I decided it was best to find something that fit my situation a little better.
+
+## The Enabled Company Inc. (2017 - 2021)
 
 Two friends and I started and maintained an e-commerce company called The Enabled Company Inc. It was in the menstrual product space and it reached about 60k per year in revenue. Managing its finances and operations, I learned the ins and outs of running a business. Together, my partners and I designed and sourced raw materials for 13 physical products which we sold primarily on Amazon.ca. We registered trademarks, engaged with local and global suppliers, manufacturers, and other agencies to successfully coordinate the production and delivery of our product to a whole bunch of happy customers! Our best-selling product had 250 reviews with an average of 4.6 stars.
 
