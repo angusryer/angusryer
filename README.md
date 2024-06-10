@@ -18,7 +18,7 @@ But for now, I'm very busy working with another company, raising kids, fixing my
 
 At I.Liv, I'm the lead developer. I'm the only developer, actually. It didn't start out that way, though. It started with two others, both of whom had substantially more experience than me, which I liked. Eventually, they all got caught up in more lucrative endeavors, and I remained to keep things moving forward. I.Liv. is an app supporting women (actually anyone, really) in achieving professional goals while maintaining personal balance. It implements agile methodologies into real life and does so via a cohort-based coaching program offered by experienced women.
 
-### [I.Liv.](https://iliv.io/)
+#### [I.Liv.](https://iliv.io/)
 Here's the tech stack:
 - TypeScript and React Native
 - Node/Express, micro-service architecture
@@ -34,7 +34,7 @@ I led the tech and faced customers on this one. We created P.O. Pro and I design
 
 Ultimately, my partner and I decided to move on. His company was growing very quickly and he had to make some hard decisions about what he could support.
 
-### [Purchase Order Pro](https://www.popro.app/) (PO Pro)
+#### [Purchase Order Pro](https://www.popro.app/) (PO Pro)
 Techity-techs:
 - TypeScript
 - Node/Express
@@ -60,16 +60,13 @@ Wanna know what killed the company?
 
 Lack of capital. We didn't have enough to purchase and keep sufficient quantities of our product on hand for weathering major economic storms. One hit us and we lost significant-enough traction for other sellers to move in and out-compete. Amazon is a wild-west, and it's also a great business-learning experience.
 
-### Other Technological Experience
-- Vue, Ionic
-- Java, Kotlin, Objective-C, Swift (for native modules in React Native apps)
-- State managers: Redux, Mobx, Jotai
-- Cache-syncs: React Query, custom implementations for syncing images across multiple devices in I.Liv.
-- AWS (Cognito, DynamoDB)
-- Functional and object-oriented programming
-- State machines, data structure, and application architecture design
-- Custom webpack implementations
-- Extensive bash scripting
+## Other Experience
+- I'm a multi-year volunteer technical consultant for the [Stirling Musical Instrument Lending Library](https://www.stirlingmill.ca) (Stirling MILL)
+- I've built a few small projects with Vue, Ionic
+- I've done work in production apps with Java, Kotlin, Objective-C, Swift (for native modules in the React Native apps I've built)
+- I've used State managers: Redux, Mobx, Jotai, Cache-syncs (React Query and custom implementations for syncing images across multiple devices in I.Liv.)
+- I've used AWS in various ways (Cognito, DynamoDB, EB, EC2, Route 53)
+- Automation. Scripts are good. Whether its bash or perl, scripts are handy.
 
 ## About Me
 
