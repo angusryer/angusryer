@@ -4,7 +4,7 @@
 
 ## The Words of History
 
-Highest-value experience: From 2017 to 2020, I was part of an operational team dedicated to transforming a major construction company's approach to technology. I designed, developed, and implemented a tool that managed labor time and cost, material quantity and cost, and task management data for about 50 projects in a dozen industries valued at around 250 million dollars all-in. I trained project managers, coordinators, and site personnel on how to use it. As an electrician, I was particularly passionate about ensuring a seamless experience for field personnel.
+From 2017 to 2020, I was part of an operational team dedicated to transforming a major construction company's approach to technology. I designed, developed, and implemented a tool that managed labor time and cost, material quantity and cost, and task management data for about 50 projects in a dozen industries valued at around 250 million dollars all-in. I trained project managers, coordinators, and site personnel on how to use it. As an electrician, I was particularly passionate about ensuring a seamless experience for field personnel.
 
 I *loved* this work: developing the tooling, creating the documentation and training resources, and getting in front of site personnel to understand them very close-up. I also deeply value the emotional realities of business, which made working in this environment challenging. Construction is renowned for its rough-edged, broad-stroked, chain-of-command approach to problem-solving. I can handle all that. I did it for eleven years. But I prefer communication over command and found that my environment didn't inspire my best self, so I ultimately decided to pursue other things when COVID got real.
 
